@@ -1,0 +1,8 @@
+/* Os pinos PTE24/PTE25 e o endereco 0x1d ja sao definidos pela placa. */
+&i2c0 {
+    status = "okay";
+};
+
+&mma8451q {
+    status = "okay";
+};

@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+__pycache__/
+.venv/
+dados_*.csv
+graficos_*.png
